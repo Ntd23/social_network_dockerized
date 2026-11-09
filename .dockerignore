@@ -1,0 +1,15 @@
+.claude
+.cursor
+.github
+.git
+.obsidian
+.pnpm-store
+.vscode
+cache
+*.sql
+upload
+ffmpeg
+client
+sess_*
+config.php
+

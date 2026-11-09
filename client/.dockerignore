@@ -1,0 +1,7 @@
+.nuxt
+.output
+.git
+ai
+doc
+node_modules
+nginx
